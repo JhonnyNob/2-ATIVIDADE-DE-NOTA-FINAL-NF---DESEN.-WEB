@@ -1,1 +1,3 @@
-# 2-ATIVIDADE-DE-NOTA-FINAL-NF---DESEN.-WEB
+2a Atividade de NotaFinal
+
+Aluno: Jhonny Mello Teixeira Souza - Matrícula: 202502310137
